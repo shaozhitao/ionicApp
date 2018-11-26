@@ -1,0 +1,21 @@
+<!-- <ion-nav [root]="rootPage"></ion-nav> -->
+<ion-menu [content]='content'>
+    <ion-header>
+        <ion-toolbar>
+            <ion-title>项目列表</ion-title>
+        </ion-toolbar>
+    </ion-header>
+    
+    <ion-content>
+        <ion-list>
+            <button menuClose ion-item *ngFor='let p of pages' (click)='openPage(p)'>
+                {{p.title}}
+            </button>
+            <!-- <button ion-item (click)='spenPage_2()'>华晟智造</button> -->
+            <!-- <button ion-item >清华大学</button> -->
+            
+        </ion-list>
+    </ion-content>
+</ion-menu>
+
+<ion-nav [root]='rootPage' #content swipeBackEnbled='false'></ion-nav>

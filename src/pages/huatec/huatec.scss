@@ -1,0 +1,136 @@
+
+.on_left {
+    width: 48%;
+    height: 600px;
+    // background-color: #17283A;
+    background: -webkit-linear-gradient(#1B3453, #101D2D); /* Safari 5.1 - 6.0 */ 
+
+ background: -o-linear-gradient(#1B3453, #101D2D); /* Opera 11.1 - 12.0 */  
+
+background: -moz-linear-gradient(#1B3453, #101D2D); /* Firefox 3.6 - 15 */  
+
+background: linear-gradient(#1B3453, #101D2D); /* 标准的语法 */ 
+    float: left;
+}
+.on_middle{
+    width: 4%;
+    height: 600px;
+    // background-color: #17283A;
+    background: -webkit-linear-gradient(#1B3453, #101D2D); /* Safari 5.1 - 6.0 */ 
+
+ background: -o-linear-gradient(#1B3453, #101D2D); /* Opera 11.1 - 12.0 */  
+
+background: -moz-linear-gradient(#1B3453, #101D2D); /* Firefox 3.6 - 15 */  
+
+background: linear-gradient(#1B3453, #101D2D); /* 标准的语法 */ 
+    float: left;
+
+}
+
+.on_right{
+    width: 48%;
+    height: 600px;
+    // background-color: #17283A;
+    background: -webkit-linear-gradient(#1B3453, #101D2D); /* Safari 5.1 - 6.0 */ 
+
+ background: -o-linear-gradient(#1B3453, #101D2D); /* Opera 11.1 - 12.0 */  
+
+background: -moz-linear-gradient(#1B3453, #101D2D); /* Firefox 3.6 - 15 */  
+
+background: linear-gradient(#1B3453, #101D2D); /* 标准的语法 */ 
+    float: left;
+}
+
+.picture_summary{  //图片
+    width: 150px;
+    height: 150px;
+    color: white;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    // background-color: aquamarine;
+
+}
+.place{  //地点
+    color: white;
+    height: 40px;
+    width:90%;
+    margin-left: 5%;
+}
+.statistic_1{
+    height: 30px;
+    color: white;
+    margin-left: 5%;
+    background: -webkit-linear-gradient(#164459, #143953); /* Safari 5.1 - 6.0 */ 
+
+    background: -o-linear-gradient(#164459, #143953); /* Opera 11.1 - 12.0 */  
+   
+   background: -moz-linear-gradient(#164459, #143953); /* Firefox 3.6 - 15 */  
+   
+   background: linear-gradient(#164459, #143953); /* 标准的语法 */
+}
+.analysis_picture{
+    height: 200px;
+    color: white;
+    // background-color: cornflowerblue;
+}
+.EchartsDiv{
+    width: 96%;
+    height: 315px;
+    color: white;
+    margin-left: 2%;
+    // background-color: rgb(20,40,60);
+    // float: left;
+}
+.right_1{
+    width: 90%;
+    height: 85px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.right_b{
+    height: 30px;
+    color: white;
+    margin-left: 5%;
+    background: -webkit-linear-gradient(#164459, #143953); /* Safari 5.1 - 6.0 */ 
+
+    background: -o-linear-gradient(#164459, #143953); /* Opera 11.1 - 12.0 */  
+   
+   background: -moz-linear-gradient(#164459, #143953); /* Firefox 3.6 - 15 */  
+   
+   background: linear-gradient(#164459, #143953); /* 标准的语法 */
+}
+.data_statistic{
+    height: 30px;
+    color: white;
+    // background-color: aqua;
+}
+.equipment{
+    height:95px;
+    width: 86%;
+    color: white;
+    margin-left: 7%;
+    // background-color: aqua;
+}
+.right_b2{
+    height: 30px;
+    color: white;
+    margin-left: 5%;
+    background: -webkit-linear-gradient(#164459, #143953); /* Safari 5.1 - 6.0 */ 
+
+    background: -o-linear-gradient(#164459, #143953); /* Opera 11.1 - 12.0 */  
+   
+   background: -moz-linear-gradient(#164459, #143953); /* Firefox 3.6 - 15 */  
+   
+   background: linear-gradient(#164459, #143953); /* 标准的语法 */
+}
+.compsitive_picture{
+    height: 270px;
+    width: 90%;
+    margin: 5%;
+    color: white;
+    // background-color: crimson;
+}

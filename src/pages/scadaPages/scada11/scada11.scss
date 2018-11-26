@@ -1,0 +1,49 @@
+#pressureShou{
+    background-color: #112332;
+}
+#tem1{
+    width: 98%;
+    height: 200px;
+    background-color: #2F4964;
+}
+#pre1{
+    width: 98%;
+    height: 200px;
+    background-color: #2F4964;
+}
+#pressureShou button{
+    background: -webkit-linear-gradient(#164459, #143953); /* Safari 5.1 - 6.0 */ 
+
+    background: -o-linear-gradient(#164459, #143953); /* Opera 11.1 - 12.0 */  
+   
+    background: -moz-linear-gradient(#164459, #143953); /* Firefox 3.6 - 15 */  
+   
+    background: linear-gradient(#164459, #143953); /* 标准的语法 */
+}
+#temPicture{
+    width: 98%;
+    height: 400px;
+    margin: auto;
+    float: left;
+    background-image: url('../../../assets/imgs/temperature1.jpg');
+    background-size: 100% 100%;
+    overflow:hidden;
+    position: relative; 
+}
+#temBlock{
+    width: 9px;
+    height: 64.5%;
+    position: relative;
+    left: 50%;
+    bottom: -10.5%;
+    background-color: aquamarine;
+}
+#temTag1{
+    width: 100%;
+    height: 30%;
+}
+#temTag2{
+    width: 100%;
+    height: 70%;
+    background-color: red;
+}

@@ -1,0 +1,41 @@
+#lampShou{
+    height: 100%;
+    background-color: #112332;
+}
+#lampTotal{
+    width:100%;
+    height: 206px;
+    background-color: #112332;
+}
+#lamp1_1,#lamp2_1,#lamp3_1,#lamp4_1{
+    width:32%;
+    height:100px;
+    float: left;
+    background-color: #2F4964;
+    margin-left: 1%;
+}
+#lamp1_11, #lamp2_11, #lamp3_11, #lamp4_11{
+    width: 67%;
+    height: 34%;
+    float: left;
+    font-size: 14px;
+    text-align: left;
+    line-height: 200%;
+    // color: red;
+}
+#lamp1_12, #lamp1_13, #lamp2_12, #lamp2_13, #lamp3_12, #lamp3_13, #lamp4_12, #lamp4_13{
+    width: 33%;
+    height: 15.5%;
+    float: right;
+}
+#lamp1_1 button, #lamp2_1 button, #lamp3_1 button, #lamp4_1 button{
+    width: 90%;
+    height: 90%;
+    background-color: #2F4964;
+    font-size: 2px;
+}
+#lamp1_14, #lamp1_15, #lamp2_14, #lamp2_15, #lamp3_14, #lamp3_15, #lamp4_14, #lamp4_15{
+    width: 100%;
+    height: 33%;
+    float: left;
+}
